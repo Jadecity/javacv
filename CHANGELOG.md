@@ -1,5 +1,5 @@
 
- * Upgrade support to OpenCV 3.0.0-beta
+ * Upgrade support to OpenCV 3.0.0-rc1
  * Switch descriptor used by `ObjectFinder` from SURF to AKAZE
  * Fix `FFmpegFrameRecorder` not saving the last few frames, especially when encoding with x264 ([issue #491](https://code.google.com/p/javacv/issues/detail?id=491))
  * Add `FrameConverterTest` and fix a couple of bugs uncovered by it
